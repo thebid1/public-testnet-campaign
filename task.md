@@ -165,3 +165,4 @@ For example,
 As mentioned in Step 5, EthStorage is incredibly powerful for enabling BLOB data retrieval through a smart contract interface, which makes BLOB data more composable and programmable. For example, you can store multiple blogs or images on EthStorage, retrieve them dynamically using EthStorage's `get` methods, and display them on your front end—or anything else you can imagine related to the composition of large data chunks.
 
 We encourage everyone to unleash their creativity using this powerful feature and build a super cool dApp with EthStorage in this way. The team will certainly award additional points for these submissions!
+.
